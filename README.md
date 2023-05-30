@@ -1,1 +1,1 @@
-My first readme
+First time using Git in ALX 
